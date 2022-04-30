@@ -13,4 +13,4 @@ $ java Main
 
 # Example output
 
-![Example program output](https://github.com/v1ckm/school/blob/main/Output_1.PNG)
+![Example program output](https://github.com/v1ckm/school/raw/main/Output_1.PNG)
