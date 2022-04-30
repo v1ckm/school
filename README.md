@@ -1,16 +1,23 @@
-# How to compile
+# Recursion example
 
-- Use a Java version which includes JavaFX
+The program uses recursion to create a tree
+
+## Installation
+
+Use a Java version which includes JavaFX
 
 ```
 $ javac Main.java
+```
+
+## Usage
+
+```
 $ java Main
 ```
 
-# Instructions
+Input a number next to "Enter an order:"
 
-- Input a number next to "Enter an order:"
-
-# Example output
+### Example output
 
 ![Example program output](/Output_1.PNG)
